@@ -19,12 +19,16 @@
 .nav-ul {
 	vertical-align: middle;
 	display: inline-block;
+	color: #d6d6c2;
 }
 .nav-li {
-	font-size: 14px;
 	display: inline-block;
-	color: #343638;
+	font-size: 14px;
+	font-weight: bold;
 	margin-right: 27px;
+}
+.text1 {
+	color: #A6ADB4;
 }
 .action {
 	color: #292929;
