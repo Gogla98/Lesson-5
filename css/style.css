@@ -1,0 +1,34 @@
+/*header*/
+.header {
+	position: fixed;
+	background-color: #F6F8F9;
+	padding: 20px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 20;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 92px;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-ul {
+	vertical-align: middle;
+	display: inline-block;
+}
+.nav-li {
+	font-size: 14px;
+	display: inline-block;
+	color: #959798;
+	margin-right: 27px;
+}
+.action {
+	color: black;
+}
+.icon1 {
+	vertical-align: middle;
+}
