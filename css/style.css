@@ -23,12 +23,13 @@
 .nav-li {
 	font-size: 14px;
 	display: inline-block;
-	color: #959798;
+	color: #343638;
 	margin-right: 27px;
 }
 .action {
-	color: black;
+	color: #292929;
 }
 .icon1 {
 	vertical-align: middle;
+	margin-left: 40px;
 }
