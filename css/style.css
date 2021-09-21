@@ -1,3 +1,6 @@
+body {
+	font-family: Helvetica, Sans-Serif;
+}
 /*header*/
 .header {
 	position: fixed;
@@ -31,9 +34,37 @@
 	color: #A6ADB4;
 }
 .action {
-	color: #292929;
+	color: #343638;
 }
 .icon1 {
 	vertical-align: middle;
 	margin-left: 40px;
+}
+
+/*section1*/
+.section1 {
+	margin-top: 70px;
+}
+.section-1 {
+	width: 1160px;
+	display: inline-block;
+	margin: 0 auto;
+}
+.h3-1 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #202124;
+}
+.img-1 {
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+.paragraph-1 {
+	display: inline-block;
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	z-index: 2;
 }
