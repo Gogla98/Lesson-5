@@ -169,3 +169,59 @@ body {
 .img8 {
 	margin-bottom: 64px;
 }
+
+/*footer*/
+.footer {
+	margin-top: 110px;
+	background-color: #A6ADB4;
+}
+.footer-padding {
+	width: 1160px;
+	display: inline-block;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	vertical-align: top;
+	margin-left: 142px;
+}
+.footer-div {
+	width: 486.09px;
+	display: inline-block;
+	vertical-align: top;
+}
+.firstfooter {
+	width: 486.09px;
+	display: inline-block;
+}
+.footer-div1 {
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 50px;
+}
+.ul {
+	font-size: 13px;
+	font-weight: bold;
+	color: #CBD0D3;
+	vertical-align: top;
+}
+.footer-divparagraph {
+	width: 243px;
+	display: inline-block;
+	vertical-align: top;
+}
+.footer-paragraph {
+	width: 243px;
+	display: inline-block;
+	font-size: 11px;
+	color: #CBD0D3;
+	margin-left: 65px;
+}
+.footer-divicon {
+	width: 160px;
+	display: inline-block;
+	margin-left: 120px;
+	vertical-align: top;
+}
+.icon {
+	vertical-align: top;
+	margin-right: 30px;
+}
