@@ -1,5 +1,7 @@
 body {
 	font-family: Helvetica, Sans-Serif;
+	padding-top: 100px;
+	background-color: #E2E2E2;
 }
 /*header*/
 .header {
@@ -42,29 +44,66 @@ body {
 }
 
 /*section1*/
-.section1 {
-	margin-top: 70px;
-}
-.section-1 {
-	width: 1160px;
-	display: inline-block;
+.sectiondiv1 {
+	width: 1200px;
 	margin: 0 auto;
 }
-.h3-1 {
-	font-size: 24px;
-	font-weight: bold;
-	color: #202124;
+.section-1 {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 40px;
 }
-.img-1 {
+.section-1-1 {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+}
+.h3-1 {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+.image-wrapper {
 	position: relative;
-	top: 0;
-	left: 0;
-	z-index: 1;
+	width: 360px;
+	height: 180px;
 }
 .paragraph-1 {
-	display: inline-block;
 	position: absolute;
+	display: inline-block;
 	top: 28px;
 	left: 40px;
-	z-index: 2;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.div {
+	width: 360px;
+	height: 180px;
+}
+.paragraph-2 {
+	display: inline-block;
+	margin-top: 66px;
+	margin-left: 40px;
+	color: #A6ADB4;
+}
+.time {
+	margin-top: 10px;
+	margin-left: 40px;
+	vertical-align: middle;
+}
+.paragraph-3 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	vertical-align: middle;
+	color: #A6ADB4;
+}
+.div1 {
+	margin-top: 10px;
+}
+.color {
+	background-color: #FFFFFF;
 }
