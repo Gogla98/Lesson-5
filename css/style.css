@@ -44,6 +44,11 @@ body {
 }
 
 /*section1*/
+.section1 {
+	width: 1160px;
+	margin: 0 auto;
+	padding-bottom: 60px;
+}
 .sectiondiv1 {
 	width: 1200px;
 	margin: 0 auto;
@@ -61,6 +66,7 @@ body {
 }
 .h3-1 {
 	display: inline-block;
+	font-family: Helvetica, Sans-Serif;
 	font-weight: bold;
 	font-size: 24px;
 	margin-bottom: 40px;
@@ -106,4 +112,60 @@ body {
 }
 .color {
 	background-color: #FFFFFF;
+}
+
+/*section2*/
+.section2 {
+	width: 1160px;
+	margin: 0 auto;
+}
+.div2 {
+	width: 1200px;
+	height: 920px;
+	display: inline-block;
+}
+.h3-2 {
+	font-family: Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: left;
+	margin-bottom: 40px;
+}
+.div3 {
+	width: 760px;
+	height: 900px;
+	display: inline-block;
+}
+.image-wrapper1 {
+	width: 760px;
+	height: 430px;
+	position: relative;
+}
+.paragraph-4 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+.img5 {
+	margin-top: 40px;
+	vertical-align: top;
+}
+.div4 {
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 40px;
+}
+.img6 {
+	margin-bottom: 102px;
+}
+.img7 {
+	margin-bottom: 102px;
+}
+.img8 {
+	margin-bottom: 64px;
 }
