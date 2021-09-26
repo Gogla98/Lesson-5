@@ -112,6 +112,7 @@ body {
 }
 .color {
 	background-color: #FFFFFF;
+	border-radius: 8px;
 }
 
 /*section2*/
@@ -149,9 +150,22 @@ body {
 	top: 20px;
 	left: 20px;
 }
+.img1 {
+	border-radius: 8px 8px 0px 0px;
+}
+.img2 {
+	border-radius: 8px 8px 0px 0px;
+}
+.img3 {
+	border-radius: 8px 8px 0px 0px;
+}
+.img4 {
+	border-radius: 8px;
+}
 .img5 {
 	margin-top: 40px;
 	vertical-align: top;
+	border-radius: 8px;
 }
 .div4 {
 	width: 360px;
@@ -162,12 +176,15 @@ body {
 }
 .img6 {
 	margin-bottom: 102px;
+	border-radius: 8px;
 }
 .img7 {
 	margin-bottom: 102px;
+	border-radius: 8px;
 }
 .img8 {
 	margin-bottom: 64px;
+	border-radius: 8px;
 }
 
 /*footer*/
