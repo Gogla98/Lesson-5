@@ -172,56 +172,71 @@ body {
 
 /*footer*/
 .footer {
-	margin-top: 110px;
 	background-color: #A6ADB4;
-}
-.footer-padding {
-	width: 1160px;
-	display: inline-block;
-	padding-top: 40px;
-	padding-bottom: 40px;
-	vertical-align: top;
-	margin-left: 142px;
+	margin-top: 100px;
 }
 .footer-div {
+	width: 1160px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	margin: 0 auto;
+}
+.footer-conteiner {
 	width: 486.09px;
+	height: 86px;
+	display: inline-block;
+	margin: 0 auto;
+}
+.h3-p {
+	width: 35px;
+	height: 17px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
 	display: inline-block;
 	vertical-align: top;
+	margin-right: 75.1px;
 }
-.firstfooter {
-	width: 486.09px;
+.footer-conteiner1 {
 	display: inline-block;
 }
-.footer-div1 {
-	vertical-align: top;
+.ul-li {
 	display: inline-block;
-	margin-left: 50px;
 }
-.ul {
+.text2 {
 	font-size: 13px;
 	font-weight: bold;
 	color: #CBD0D3;
-	vertical-align: top;
+	margin-bottom: 8px;
 }
-.footer-divparagraph {
-	width: 243px;
-	display: inline-block;
-	vertical-align: top;
-}
-.footer-paragraph {
-	width: 243px;
-	display: inline-block;
-	font-size: 11px;
+.text23 {
+	font-size: 13px;
+	font-weight: bold;
 	color: #CBD0D3;
-	margin-left: 65px;
 }
-.footer-divicon {
+.action1 {
+	margin-right: 70.6px;
+}
+.action2 {
+	margin-right: 86.3px;
+}
+.h3-3 {
+	font-size: 11px;
+	font-weight: regular;
+	color: #CBD0D3;
+}
+.h3-div {
+	width: 243px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 157px;
+	margin-left: 104.9px;
+}
+.social {
 	width: 160px;
 	display: inline-block;
-	margin-left: 120px;
 	vertical-align: top;
 }
-.icon {
-	vertical-align: top;
-	margin-right: 30px;
+.socialimg {
+	margin-left: 30px;
 }
