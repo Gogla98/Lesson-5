@@ -1,0 +1,15 @@
+/* header responsive */
+@media (max-width: 650px) {
+    .header {
+        display: flex;
+        justify-content: space-between;
+    }
+    .fa-bars {
+        font-size: 25px;
+        color: black;
+        display: flex;
+    }
+    .navigation {
+        display: none;
+    }
+}
